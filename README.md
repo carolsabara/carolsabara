@@ -4,7 +4,7 @@
 
 
 🎓 Estudante de Gestão de Tecnologia da Informação com foco em Análise de Dados.  
-📊 Eperiência acadêmica e prática com ferramentas como Python, SQL e Power BI.  
+📊 Experiência acadêmica e prática com ferramentas como Python, SQL e Power BI.  
 🐼 Noções em bibliotecas Python, como Pandas e NumPy, para manipulação e transformação de dados.    
 
 ---
