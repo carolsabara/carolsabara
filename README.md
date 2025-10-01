@@ -3,7 +3,7 @@
 **`Analista de Dados`**
 
 
-🎓 Estudante de Gestão de Tecnologia da Informação com foco em Análise de Dados.  
+🎓 Estudante de Gestão de Tecnologia da Informação com foco em Dados.  
 📊 Experiência acadêmica e prática com ferramentas como Python, SQL e Power BI.  
 🐼 Noções em bibliotecas Python, como Pandas e NumPy, para manipulação e transformação de dados.    
 
